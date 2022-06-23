@@ -1,0 +1,5 @@
+// install .NET http repl 
+dotnet tool install -g Microsoft.dotnet-httprepl
+
+
+
